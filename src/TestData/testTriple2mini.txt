@@ -1,0 +1,2 @@
+Aach	located-in	Deutschland
+Zebra	located-in	Zoo

@@ -1,0 +1,31 @@
+Debug from Mon Jul 29 11:23:20 2013
+
+
+merged, Score: 10
+"Breisach":"Breisach_(05wmpz)" == "Breisach_am_Rhein":"Breisach_am_Rhein_(2944800)"
+Breisach id:Breisach_(05wmpz))
+	has-latitude 48.0289(48.0289)
+	has-longitude 7.5802(7.5802)
+	located-in Baden-Württemberg(Baden-Württemberg_(0hk4q))
+	located-in Germany(Germany_(0345h))
+
+Breisach_am_Rhein id:Breisach_am_Rhein_(2944800))
+	has-latitude 48.03279(48.03279)
+	has-longitude 7.58294(7.58294)
+	has-population 14367(14367)
+	is-a City(City)
+	located-in Baden-Württemberg_Region(Baden-Württemberg_Region_(qq123))
+	located-in Freiburg_Region(Freiburg_Region_(as1221))
+	located-in Germany(Germany_(qweqwe123))
+
+- - - - -
+
+merged, Score: 8
+"Germany":"Germany_(0345h)" == "Germany":"Germany_(qweqwe123)"
+Germany id:Germany_(0345h))
+	contains Breisach_am_Rhein(Breisach_am_Rhein_(2944800))
+
+Germany id:Germany_(qweqwe123))
+	contains Breisach_am_Rhein(Breisach_am_Rhein_(2944800))
+
+- - - - -

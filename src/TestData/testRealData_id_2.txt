@@ -1,0 +1,5 @@
+Breisach_(05wmpz)	has-latitude	48.0289
+Breisach_(05wmpz)	has-longitude	7.5802
+Breisach_(05wmpz)	located-in	Baden-Württemberg_(0hk4q)
+Breisach_(05wmpz)	located-in	Germany_(0345h)
+

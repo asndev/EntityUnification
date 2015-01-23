@@ -1,0 +1,8 @@
+Breisach_am_Rhein_(2944800)	has-latitude	48.03279
+Breisach_am_Rhein_(2944800)	has-longitude	7.58294
+Breisach_am_Rhein_(2944800)	has-population	14367
+Breisach_am_Rhein_(2944800)	is-a	City
+Breisach_am_Rhein_(2944800)	located-in	Baden-Württemberg_Region_(qq123)
+Breisach_am_Rhein_(2944800)	located-in	Freiburg_Region_(as1221)
+Breisach_am_Rhein_(2944800)	located-in	Germany_(qweqwe123)
+

@@ -1,0 +1,10 @@
+
+Equal, but didn't merge. Score: 1
+"Baden-Württemberg":"Baden-Württemberg_(0hk4q)" == "Baden-Württemberg_Region":"Baden-Württemberg_Region_(qq123)"
+Baden-Württemberg id:Baden-Württemberg_(0hk4q))
+	contains Breisach(Breisach_(05wmpz))
+
+Baden-Württemberg_Region id:Baden-Württemberg_Region_(qq123))
+	contains Breisach_am_Rhein(Breisach_am_Rhein_(2944800))
+
+- - - - -

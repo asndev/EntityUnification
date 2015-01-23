@@ -1,0 +1,8 @@
+Aach	located-in	Freiburg_Region
+Freiburg_Region	located-in	Deutschland
+Freiburg_Region	located-in	BW
+BW	located-in	Deutschland
+Deutschland	located-in	Welt
+Freiburg_Region	located-in	Welt
+Freiburg_Region	has-population	1231231
+Freiburg_Region	has-longitude	35.4
