@@ -1,6 +1,7 @@
 # EntityUnification
 
 Code created for my bachelor thesis.
+
 This application unifies two ontology sets really fast based on a scoring algorithm described in [1].
 
 ```
